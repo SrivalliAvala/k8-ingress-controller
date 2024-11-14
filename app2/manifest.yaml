@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: app2
-        image: srivalli7/app2:v1
+        image: srivalliavala7/app2:v1
 
 ---
 
